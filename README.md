@@ -1,5 +1,6 @@
 # djiSDKcontrol
 The structure PC -> Android -> Drone is implmented here.
+This work is supported by Dr.John Licato and ACoRL Lab.
 # Set up
 server.py is used to set up the python server on PC.
 use Android studio to open the android project files.
